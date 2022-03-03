@@ -1,0 +1,10 @@
+$colorOne: red;
+$digerRenk: yellow;
+
+body {
+    background: $colorOne;
+    p {
+        color: $digerRenk;
+    }
+}
+

@@ -1,0 +1,1 @@
+{"mappings":"AAEA,KACI,gBCDJ","sources":["src/scss/style.scss","%3Cinput%20css%20MKpsq5%3E"],"sourcesContent":["$colorOne: 'red';\n\nbody {\n    background: $colorOne;\n}\n\n","body {\n  background: \"red\";\n}\n/*# sourceMappingURL=style.css.map */\n"],"names":[],"version":3,"file":"style.css.map"}

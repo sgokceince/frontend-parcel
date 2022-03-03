@@ -1,0 +1,1 @@
+{"version":3,"sources":["scss/style.scss"],"names":[],"mappings":"AAGA;EACI,YAJO;;AAKP;EACI,OALI","file":"style.a6dae8f7.css","sourceRoot":"../src","sourcesContent":["$colorOne: red;\n$digerRenk: yellow;\n\nbody {\n    background: $colorOne;\n    p {\n        color: $digerRenk;\n    }\n}\n\n"]}
